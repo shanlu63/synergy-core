@@ -1,3 +1,5 @@
+我的IOS系统是10.14.6，提示说版本太新了，无法使用这个版本的SYNEGY
+
 # Synergy Core
 
 This is the open source core component of Synergy, a keyboard and mouse sharing tool.
